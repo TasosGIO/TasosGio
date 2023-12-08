@@ -1,4 +1,5 @@
-### This is a text adventure game that dercribes a hero that tyies to take a throne from a tyrant in conclution beign the new elden lord
+### Im currently an intern!
+ I’m currently learning web design and photo editing
 
 <!--
 **TasosGIO/TasosGio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
